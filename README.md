@@ -54,6 +54,6 @@
 Devido a alterações na interface do Cognito, precisei seguir o seguinte tutorial, pois estava obtendo erros seguindo o passo-a-passo original:
 https://github.com/Jcnok/Bootcamp-Cloud-AWS-DIO/tree/main/desafio-aws-cognito#desafio-de-projeto-adicionando-seguran%C3%A7a-em-apis-na-aws-com-amazon-cognito
 
-Obs1:lembrar de adicionar /login ao Auth URL
-Obs2: Não recebi link pelo email ao criar a conta na interface de login e obitve erros ao inserir o código enviado. Porém, ao tentar criar novamente a conta com o mesmo email, indicava que já havia uma conta e então consegui fazer o login. 
-Obs3: Não consegui inserir novos itens via postman, nem na fase inicial, tão pouco após a criação do token.
+- Obs1:lembrar de adicionar /login ao Auth URL
+- Obs2: Não recebi link pelo email ao criar a conta na interface de login e obitve erros ao inserir o código enviado. Porém, ao tentar criar novamente a conta com o mesmo email, indicava que já havia uma conta e então consegui fazer o login. 
+- Obs3: Não consegui inserir novos itens via postman, nem na fase inicial, tão pouco após a criação do token.
